@@ -1,6 +1,6 @@
 {
 "annotURL": "./annotations.json",
-"cloudURL": "UPDATE_HERE_WHEN_UPLOADED",
+"cloudURL": "https://samthiele.github.io/freibergVFT/fg_clouds",
 "languages": ["en","de"],
 "sites": {
     "pullapart": {
