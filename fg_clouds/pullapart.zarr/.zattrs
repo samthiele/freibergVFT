@@ -1,0 +1,57 @@
+{
+    "chunks": 7,
+    "groups": {
+        "cutout": {
+            "mask": [
+                6,
+                ">",
+                2.5
+            ]
+        }
+    },
+    "origin": [
+        -9,
+        -2,
+        -8
+    ],
+    "resolution": 0.02,
+    "styles": [
+        "rgb",
+        "gray"
+    ],
+    "stylesheet": {
+        "gray": {
+            "color": [
+                7,
+                {
+                    "limits": [
+                        0,
+                        1,
+                        255
+                    ],
+                    "scale": "Greys"
+                }
+            ]
+        },
+        "rgb": {
+            "color": {
+                "B": [
+                    5,
+                    0,
+                    1
+                ],
+                "G": [
+                    4,
+                    0,
+                    1
+                ],
+                "R": [
+                    3,
+                    0,
+                    1
+                ]
+            }
+        }
+    },
+    "total": 1361289
+}

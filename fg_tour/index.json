@@ -1,0 +1,128 @@
+{
+"annotURL": "./annotations.json",
+"cloudURL": "UPDATE_HERE_WHEN_UPLOADED",
+"languages": ["en","de"],
+"sites": {
+    "pullapart": {
+        "mediaType": "cloud",
+        "mediaURL": "pullapart.zarr",
+        "pointSize": 0.02,
+        "tabs": {
+            "Dilational Jogs": ["./md/pullapart/dilational jogs_en.md","./md/pullapart/dilational jogs_de.md"]  },
+        "view": {
+            "pos": [1.1629150983924348,-1.511867913452867,42.32941879481786],
+            "tgt": [1.162911485693397,-1.5118260632363338,0.3719786540617971]  },
+        "labels": {
+            "label1": {
+                "html": "<a href='./#reichezeche'>Back to Reiche Zeche</a>",
+                "pos": [5.060563517592036,-11.679007113648073,4.7600363821128635]  }  }  },
+    "reichezeche": {
+        "labels": {
+            "label1": {
+                "html": "<b><a href='./#silverstadt'>Previous stop: Freiberg</a></b>",
+                "pos": [5700.823485772987,-216.22907835781723,-4.580136114222643]  },
+            "label2": {
+                "html": "<i>Reiche Zeche shaft</i>",
+                "pos": [6485.365511523119,920.234938989068,61.804652376606626]  },
+            "label3": {
+                "html": "<i>Alte Elisabeth Shaft</i>",
+                "pos": [6453.5827895064185,24.960489371547347,41.39681002468695]  },
+            "label4": {
+                "html": "<i>Querschlag West</i>",
+                "pos": [6244.902816035916,868.3536863510375,-140.0284966619288]  },
+            "label6": {
+                "html": "<i>Schwarzer Hirsch</i>",
+                "pos": [6604.041128625577,1179.3981963449805,-140.26336228703494]  },
+            "label7": {
+                "html": "<i>Gl\u00fcck auf Spat</i>",
+                "pos": [6126.891528091095,1161.5289347949501,-159.23432584216883]  },
+            "label8": {
+                "html": "<b><a href=\"./#isaac\">Next stop: Halsbrucke</a></b>",
+                "pos": [6147.09694249091,1649.006786224693,-133.7410058524911]  },
+            "label5": {
+                "html": "<b><a href=\"./#pullapart\">Epithermal vein</a></b>",
+                "pos": [6812.1177080358075,1395.421023524981,-129.09996605333856]  },
+            "label9": {
+                "html": "<i>Richtstrecke</i>",
+                "pos": [6743.852334055139,1248.0756050105792,-140.17306114292282]  }  },
+        "mediaType": "cloud",
+        "mediaURL": "Freiberg.zarr",
+        "pointSize": 1.8,
+        "tabs": {
+            "Reiche Zeche": ["./md/reichezeche/reiche zeche_en.md","./md/reichezeche/reiche zeche_de.md"]  },
+        "view": {
+            "pos": [5856.687016879496,-1331.7855509015192,848.7090862765575],
+            "tgt": [5988.98366326886,289.8849621471415,-113.70230963848977]  }  },
+    "rz1": {
+        "labels": {
+            "label1": {
+                "html": "Sericitised Gneiss",
+                "pos": [58.877896992790454,-24.891283611918634,75.70777046755806]  }  },
+        "mediaType": "photosphere",
+        "mediaURL": "./img/rz1/ps.jpg",
+        "view": {
+            "pos": [-1.7947328402393308,2.1482651490549083,9.600202647940415],
+            "tgt": [0,0,0]  }  },
+    "silverstadt": {
+        "labels": {
+            "label1": {
+                "html": "<i>Obermarkt</i>",
+                "pos": [5443.862774692333,-313.27133890706466,8.408544230686552]  },
+            "label10": {
+                "html": "<b><a href='./#reichezeche'>Next stop: Reiche Zeche</a><b>",
+                "pos": [5851.858602656979,-153.70013476392663,16.36577720288213]  },
+            "label11": {
+                "html": "<i>Old city wall</i>",
+                "pos": [5328.228087456276,154.43138378904837,19.198426262266974]  },
+            "label3": {
+                "html": "<i>Donatsturm</i>",
+                "pos": [5942.218519093996,-230.07636039080484,39.7591115098152]  },
+            "label4": {
+                "html": "<i>Terra Mineralia</i>",
+                "pos": [5254.696968294942,58.37995209983186,1.0462325204040352]  },
+            "label5": {
+                "html": "<i>Wernerbau</i>",
+                "pos": [5495.28008055857,96.64943228367869,18.08629780109423]  },
+            "label6": {
+                "html": "<b><a href='./#start'>Previous stop: Welcome</a></b>",
+                "pos": [6170.878949778544,-145.89784159817148,20.764639377157867]  },
+            "label7": {
+                "html": "<i>Untermarkt</i>",
+                "pos": [5588.419271188396,69.81354994275057,-4.807521430292078]  },
+            "label8": {
+                "html": "<i>TU Bergakademie Freiberg</i>",
+                "pos": [5323.81440212476,-194.8237885368362,22.782238058901783]  },
+            "label9": {
+                "html": "<i>Silver!</a>",
+                "pos": [5818.496909910224,-131.47000173814473,-3.323493826343598]  }  },
+        "mediaType": "cloud",
+        "mediaURL": "Freiberg.zarr",
+        "pointSize": 1.8,
+        "tabs": {
+            "About Freiberg": ["./md/silverstadt/about freiberg_en.md","./md/silverstadt/about freiberg_de.md"]  },
+        "view": {
+            "pos": [5572.069823231979,-222.6658641805139,1379.8432651263026],
+            "tgt": [5572.068657590354,-222.66512862915016,3.268049436597903]  }  },
+    "welcome": {
+        "labels": {
+            "label1": {
+                "html": "<b><a href='./#silverstadt'>First stop: Freiberg</a></b>",
+                "pos": [5445.484375655132,-314.76005523051685,7.303274162533453]  }  },
+        "mediaType": "cloud",
+        "mediaURL": "Freiberg.zarr",
+        "pointSize": 1.8,
+        "view": {
+            "pos": [5937.485316842929,-719.0598584086096,580.7207510508692],
+            "tgt": [5495.206905100459,-346.1570571041294,47.1123026341086]  }  }  },
+"synonyms": {
+    "pullapart": "pullapart",
+    "reichezeche": "reichezeche",
+    "rz1": "rz1",
+    "silverstadt": "silverstadt",
+    "start": "welcome",
+    "welcome": "welcome"  },
+"tabs": {
+    "Help": ["./md/help_en.md","./md/help_de.md"],
+    "Index": ["./md/index_en.md","./md/index_de.md"],
+    "References": ["./md/references_en.md","./md/references_de.md"],
+    "_order": ["Index","Help","References"]  }  }

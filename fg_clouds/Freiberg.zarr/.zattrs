@@ -1,0 +1,71 @@
+{
+    "chunks": 4,
+    "groups": {
+        "subsurface": {
+            "mask": [
+                7,
+                "=",
+                2
+            ]
+        }
+    },
+    "origin": [
+        -810936,
+        -941774,
+        400
+    ],
+    "resolution": 2.0,
+    "styles": [
+        "rgb",
+        "elevation",
+        "gray"
+    ],
+    "stylesheet": {
+        "elevation": {
+            "color": [
+                2,
+                {
+                    "limits": [
+                        -120,
+                        120,
+                        255
+                    ],
+                    "scale": "spectral"
+                }
+            ]
+        },
+        "gray": {
+            "color": [
+                6,
+                {
+                    "limits": [
+                        0,
+                        1,
+                        255
+                    ],
+                    "scale": "Greys"
+                }
+            ]
+        },
+        "rgb": {
+            "color": {
+                "B": [
+                    5,
+                    0,
+                    1
+                ],
+                "G": [
+                    4,
+                    0,
+                    1
+                ],
+                "R": [
+                    3,
+                    0,
+                    1
+                ]
+            }
+        }
+    },
+    "total": 646976
+}
