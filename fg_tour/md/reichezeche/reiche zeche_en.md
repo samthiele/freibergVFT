@@ -7,11 +7,14 @@ The Reiche Zeche, meaning “Rich Mine,” developed later to exploit deeper sil
 
 -----
 
-**Click the *subsurface* button in the top left of the 3D viewer to see some of the underground workings accessible via the Reiche Zeche and Alte Elisabeth shafts**
+**Click the *subsurface* button in the top left of the 3D viewer to see some of the underground workings accessible via the Reiche Zeche and Alte Elisabeth shafts. (Note that these workings are far more extensive than shown here).**
 
 ----
 
 ![Woodcut showing the Reiche Zeche shaft in 1920](./img/rzwoodcut.jpg)
+
+
+![Hard work underground in the early 1900s.](./img/bergmann.jpg)
 
 ----
 
@@ -27,12 +30,10 @@ Sometime between ~310 and 270 Ma, heat from some of these dykes (or, possibly, d
 
 Underground exposures of these various generations of faults (and veins) provide a valuable record of the post-variscan tectonics that controlled ore formation. An example of one such outcrop can be seen [here](./#pullapart).
 
-# Salty brines and fluorite
+---
 
+**Next Stop: [Halsbrücke](./#isaak)**
 
-Millions of year later, in the early Cretaceous, extensional tectonics allowed salty brines to circulate through the (older) NW-SE oriented strike slip fault zones, precipitating widespread fluorite and barite veins, which are locally several meters thick. Although largely free of precious metals, these veins were historically mined as a source of barite. Similar veins in the Erzgebirge region are also [still mined](https://www.mindat.org/loc-223771.html) for fluorite.  
+**Previous Stop: [Freiberg](./#silverstadt)**
 
-![A ~1 meter thick fluorite-barite vein exposed in the Himmelfahrt mine.](./img/fba.png)
-
-
-**TODO: Add link to 3D model of Fba vein here**
+---

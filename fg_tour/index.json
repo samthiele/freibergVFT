@@ -3,7 +3,53 @@
 "cloudURL": "https://samthiele.github.io/freibergVFT/fg_clouds",
 "languages": ["en","de"],
 "sites": {
+    "isaak": {
+        "labels": {
+            "label1": {
+                "html": "Fluorite-Barite (FBa) vein",
+                "pos": [-6.02341190167019,24.17771755885998,-95.90646622801]  },
+            "label2": {
+                "html": "<b><a href=\"./#rhyolite\">Next stop: Rhyolite dyke</a></b>",
+                "pos": [96.8801975098546,0.6262750496732971,21.28887564902453]  },
+            "label3": {
+                "html": "Isaak Erbstolln",
+                "pos": [-13.87958854910984,0.9750533616407042,-98.11093624891153]  },
+            "label4": {
+                "html": "<b><a href='./#reichezeche'>Previous stop: Reiche Zeche</a></b>",
+                "pos": [13.94788633573927,-16.222772726266733,96.76364666228012]  },
+            "label5": {
+                "html": "<b><a href='./#rothenfurth'>Final stop: Rothenfurth</a></b>",
+                "pos": [-97.077441138357,-1.6551214638826064,-20.246397334737292]  }  },
+        "mediaType": "photosphere",
+        "mediaURL": "./img/isaak/ps.jpg",
+        "tabs": {
+            "Isaak": ["./md/isaak/isaak_en.md","./md/isaak/isaak_de.md"]  },
+        "view": {
+            "pos": [-1.2232113085494463,-3.6706541657398857,9.221174116682384],
+            "tgt": [0,0,0]  }  },
+    "obermarkt": {
+        "labels": {
+            "label1": {
+                "html": "City hall (Rathaus)",
+                "pos": [21.23532277951236,37.696838168729386,-89.21754849741814]  },
+            "label2": {
+                "html": "Otto the Rich",
+                "pos": [46.44948402072924,24.324025186430987,84.1311252633228]  },
+            "label3": {
+                "html": "<b><a href='./#silverstadt'>Return to city map</a></b>",
+                "pos": [96.31378311480019,-4.3807112399873285,22.829444257733034]  }  },
+        "mediaType": "photosphere",
+        "mediaURL": "./img/obermarkt/ps.jpg",
+        "tabs": {
+            "Obermarkt": ["./md/obermarkt/obermarkt_en.md","./md/obermarkt/obermarkt_de.md"]  },
+        "view": {
+            "pos": [-8.628969166349036,-2.035747604469811,-4.625648367212045],
+            "tgt": [0,0,0]  }  },
     "pullapart": {
+        "labels": {
+            "label1": {
+                "html": "<a href='./#reichezeche'>Back to Reiche Zeche</a>",
+                "pos": [5.060563517592036,-11.679007113648073,4.7600363821128635]  }  },
         "mediaType": "cloud",
         "mediaURL": "pullapart.zarr",
         "pointSize": 0.02,
@@ -11,11 +57,7 @@
             "Dilational Jogs": ["./md/pullapart/dilational jogs_en.md","./md/pullapart/dilational jogs_de.md"]  },
         "view": {
             "pos": [1.1629150983924348,-1.511867913452867,42.32941879481786],
-            "tgt": [1.162911485693397,-1.5118260632363338,0.3719786540617971]  },
-        "labels": {
-            "label1": {
-                "html": "<a href='./#reichezeche'>Back to Reiche Zeche</a>",
-                "pos": [5.060563517592036,-11.679007113648073,4.7600363821128635]  }  }  },
+            "tgt": [1.162911485693397,-1.5118260632363338,0.3719786540617971]  }  },
     "reichezeche": {
         "labels": {
             "label1": {
@@ -30,6 +72,9 @@
             "label4": {
                 "html": "<i>Querschlag West</i>",
                 "pos": [6244.902816035916,868.3536863510375,-140.0284966619288]  },
+            "label5": {
+                "html": "<b><a href=\"./#pullapart\">Epithermal vein</a></b>",
+                "pos": [6812.1177080358075,1395.421023524981,-129.09996605333856]  },
             "label6": {
                 "html": "<i>Schwarzer Hirsch</i>",
                 "pos": [6604.041128625577,1179.3981963449805,-140.26336228703494]  },
@@ -37,11 +82,8 @@
                 "html": "<i>Gl\u00fcck auf Spat</i>",
                 "pos": [6126.891528091095,1161.5289347949501,-159.23432584216883]  },
             "label8": {
-                "html": "<b><a href=\"./#isaac\">Next stop: Halsbrucke</a></b>",
+                "html": "<b><a href=\"./#isaak\">Next stop: Halsbrucke</a></b>",
                 "pos": [6147.09694249091,1649.006786224693,-133.7410058524911]  },
-            "label5": {
-                "html": "<b><a href=\"./#pullapart\">Epithermal vein</a></b>",
-                "pos": [6812.1177080358075,1395.421023524981,-129.09996605333856]  },
             "label9": {
                 "html": "<i>Richtstrecke</i>",
                 "pos": [6743.852334055139,1248.0756050105792,-140.17306114292282]  }  },
@@ -53,6 +95,72 @@
         "view": {
             "pos": [5856.687016879496,-1331.7855509015192,848.7090862765575],
             "tgt": [5988.98366326886,289.8849621471415,-113.70230963848977]  }  },
+    "rhyolite": {
+        "labels": {
+            "label1": {
+                "html": "Upper dyke contact",
+                "pos": [-59.72118848055932,58.37192409467111,-53.62368083016741]  },
+            "label2": {
+                "html": "Cooling joints",
+                "pos": [-61.09304477835153,41.183585126982514,-66.31995873266668]  },
+            "label3": {
+                "html": "Lower dyke contact",
+                "pos": [-3.31574594828575,34.60177835142918,-92.76649337883966]  },
+            "label4": {
+                "html": "Altered gneiss",
+                "pos": [-77.88263734677938,54.0039437192998,-28.924545688780743]  },
+            "label5": {
+                "html": "<b><a href='./#isaak'>Previous stop: FBa vein</a></b>",
+                "pos": [84.8693086450209,-23.609491849845654,45.44506825060604]  },
+            "label6": {
+                "html": "<b><a href='./#russian'>Next stop: Russian wall</a></b>",
+                "pos": [-25.003444340358765,46.85066313911228,-83.68810123881305]  }  },
+        "mediaType": "photosphere",
+        "mediaURL": "./img/rhyolite/ps.jpg",
+        "tabs": {
+            "Rhyolite": ["./md/rhyolite/rhyolite_en.md","./md/rhyolite/rhyolite_de.md"]  },
+        "view": {
+            "pos": [5.45161745828817,-4.92778079431667,6.78209728119932],
+            "tgt": [0,0,0]  }  },
+    "rothenfurth": {
+        "labels": {
+            "label1": {
+                "html": "<b><a href='./#russian'>Previous stop: Russian wall</a></b>",
+                "pos": [91.93271443483009,-4.794244235174388,36.54883130040081]  },
+            "label2": {
+                "html": "Caspar Stehender (epithermal) vein",
+                "pos": [47.83663746798229,2.7283546273641583,-86.743930858097]  },
+            "label3": {
+                "html": "<b><a href='./#start'>Back to start</a></b>",
+                "pos": [91.3959010384762,-12.048955777925752,36.216076125670305]  }  },
+        "mediaType": "photosphere",
+        "mediaURL": "./img/rothenfurth/ps.jpg",
+        "tabs": {
+            "Rothenfurth": ["./md/rothenfurth/rothenfurth_en.md","./md/rothenfurth/rothenfurth_de.md"]  },
+        "view": {
+            "pos": [-4.0561541360882485,-0.7904438916702208,9.106196356240906],
+            "tgt": [0,0,0]  }  },
+    "russian": {
+        "labels": {
+            "label1": {
+                "html": "Elbe trend (NW-WNW striking) joints",
+                "pos": [-67.09563894798107,2.190333872393405,-72.95102262394488]  },
+            "label2": {
+                "html": "Freiberg trend (NE-NNE striking) joints",
+                "pos": [44.609989064367724,50.72547442330899,-72.54894111723158]  },
+            "label3": {
+                "html": "Variscan foliation (N-dipping)",
+                "pos": [-66.97310876747173,-54.75848263519465,-48.48098597309482]  },
+            "label4": {
+                "html": "<b><a href='./#rhyolite'>Previous stop: Rhyolite dyke<a></b>",
+                "pos": [90.81225079368562,35.45853535036133,17.921436045454875]  },
+            "label5": {
+                "html": "<b><a href='./#rothenfurth'>Next stop: Rothenfurth</a></b>",
+                "pos": [-82.28045289301353,-55.33374925870732,0.4003199789908744]  }  },
+        "mediaType": "photosphere",
+        "mediaURL": "./img/russian/ps.jpg",
+        "tabs": {
+            "Joints": ["./md/russian/joints_en.md","./md/russian/joints_de.md"]  }  },
     "rz1": {
         "labels": {
             "label1": {
@@ -66,8 +174,8 @@
     "silverstadt": {
         "labels": {
             "label1": {
-                "html": "<i>Obermarkt</i>",
-                "pos": [5443.862774692333,-313.27133890706466,8.408544230686552]  },
+                "html": "<b><a href='./#obermarkt'>Obermarkt</a><b>",
+                "pos": [5445.619052324916,-313.29724301529075,8.161259291545536]  },
             "label10": {
                 "html": "<b><a href='./#reichezeche'>Next stop: Reiche Zeche</a><b>",
                 "pos": [5851.858602656979,-153.70013476392663,16.36577720288213]  },
@@ -80,9 +188,6 @@
             "label4": {
                 "html": "<i>Terra Mineralia</i>",
                 "pos": [5254.696968294942,58.37995209983186,1.0462325204040352]  },
-            "label5": {
-                "html": "<i>Wernerbau</i>",
-                "pos": [5495.28008055857,96.64943228367869,18.08629780109423]  },
             "label6": {
                 "html": "<b><a href='./#start'>Previous stop: Welcome</a></b>",
                 "pos": [6170.878949778544,-145.89784159817148,20.764639377157867]  },
@@ -94,7 +199,10 @@
                 "pos": [5323.81440212476,-194.8237885368362,22.782238058901783]  },
             "label9": {
                 "html": "<i>Silver!</a>",
-                "pos": [5818.496909910224,-131.47000173814473,-3.323493826343598]  }  },
+                "pos": [5818.496909910224,-131.47000173814473,-3.323493826343598]  },
+            "label2": {
+                "html": "<b><a href='/#wernerbau'>Wernerbau</a></b>",
+                "pos": [5494.069425733666,95.03127249678485,17.15874905779761]  }  },
         "mediaType": "cloud",
         "mediaURL": "Freiberg.zarr",
         "pointSize": 1.8,
@@ -113,14 +221,32 @@
         "pointSize": 1.8,
         "view": {
             "pos": [5937.485316842929,-719.0598584086096,580.7207510508692],
-            "tgt": [5495.206905100459,-346.1570571041294,47.1123026341086]  }  }  },
+            "tgt": [5495.206905100459,-346.1570571041294,47.1123026341086]  }  },
+    "wernerbau": {
+        "mediaType": "photosphere",
+        "mediaURL": "./img/wernerbau/ps.jpg",
+        "tabs": {
+            "Wernerbau": ["./md/wernerbau/wernerbau_en.md","./md/wernerbau/wernerbau_de.md"]  },
+        "labels": {
+            "label1": {
+                "html": "<b><a href='./#silverstadt'>Back to city map</a></b>",
+                "pos": [-97.50879474023735,1.9838333309786824,17.43084662110544]  }  },
+        "view": {
+            "pos": [0.6881488625406154,-4.382110377152219,8.962341200012352],
+            "tgt": [0,0,0]  }  }  },
 "synonyms": {
+    "isaak": "isaak",
+    "obermarkt": "obermarkt",
     "pullapart": "pullapart",
     "reichezeche": "reichezeche",
+    "rhyolite": "rhyolite",
+    "rothenfurth": "rothenfurth",
+    "russian": "russian",
     "rz1": "rz1",
     "silverstadt": "silverstadt",
     "start": "welcome",
-    "welcome": "welcome"  },
+    "welcome": "welcome",
+    "wernerbau": "wernerbau"  },
 "tabs": {
     "Help": ["./md/help_en.md","./md/help_de.md"],
     "Index": ["./md/index_en.md","./md/index_de.md"],

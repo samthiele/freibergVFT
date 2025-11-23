@@ -3,7 +3,7 @@
 
 Freiberg was founded in the late 12th century after the discovery of rich silver deposits. These discoveries sparked a rapid influx of settlers, miners, and merchants, leading to the establishment of the town around 1186. 
 
-The city quickly grew into one of the most important mining centers in medieval Europe, contributing significantly to the economic power of the Margraviate of Meissen and later the Electorate of Saxony. Its wealth supported the expansion of regional trade networks and helped finance cultural and architectural developments throughout Saxony.
+The city quickly grew into one of the most important mining centers in medieval Europe, contributing significantly to the economic power of the [Margraviate of Meissen](./#obermarkt) and later the Electorate of Saxony. Its wealth supported the expansion of regional trade networks and helped finance cultural and architectural developments throughout Saxony.
 
 Mining has remained central to Freiberg’s identity for centuries: The town is home to the Bergakademie Freiberg, founded in 1765, making it one of the world’s oldest mining and geoscience universities. Today, Freiberg's mining heritage is preserved through museums, the historic “Reiche Zeche” underground mine, and a beautifully preserved medieval townscape that reflects its long and influential mining past.
 
@@ -35,8 +35,12 @@ The 3D model of Freiberg on the right highlights several historic spots worth ex
 
 ----
 
+![The Reiche Zeche shaft sits on the ridge a few hundred meters from the Freiberg old town.](./img/rzphoto.jpg)
+
+---
+
 **Next Stop: [Reiche Zeche and the Himmelfahrt mine](./#reichezeche)**
 
-![The Reiche Zeche shaft sits on the ridge a few hundred meters from the Freiberg old town.](./img/rzphoto.jpg)
+**Previous Stop: [Silver city](./#start)**
 
 ---
