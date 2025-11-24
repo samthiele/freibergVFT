@@ -3,6 +3,34 @@
 "cloudURL": "https://samthiele.github.io/freibergVFT/fg_clouds",
 "languages": ["en","de"],
 "sites": {
+    "halsbrucke": {
+        "labels": {
+            "label1": {
+                "html": "<i>Old mine tailings</i>",
+                "pos": [258.26916478162747,169.7590995059212,-2.2704339874416375]  },
+            "label2": {
+                "html": "<b><a href=\\\"./#rhyolite\\\">Rhyolite dyke</a></b>",
+                "pos": [236.23957649981625,406.28779158513674,9.52430137750219]  },
+            "label3": {
+                "html": "<b><a href='./#isaak'>Fluorite-Barite Vein</a></b>",
+                "pos": [16.350487961444713,196.66124265649637,-9.08627944308678]  },
+            "label4": {
+                "html": "<i>Historic silver workings</i>",
+                "pos": [5.730406715033145,334.24489198704555,18.059084501663822]  },
+            "label5": {
+                "html": "<b><a href='./#russian'>Russian wall</a></b>",
+                "pos": [392.11880013302016,325.95203737176496,13.296605419650202]  },
+            "label6": {
+                "html": "<i>Halsbr\u00fccke</i>",
+                "pos": [-96.52931143992724,-471.690425639351,25.57111159253318]  }  },
+        "mediaType": "cloud",
+        "mediaURL": "halsbrucke.zarr",
+        "pointSize": 1.5,
+        "tabs": {
+            "Halsbr\u00fccke": ["./md/halsbrucke/halsbr\u00fccke_en.md","./md/halsbrucke/halsbr\u00fccke_de.md"]  },
+        "view": {
+            "pos": [11.154981281266691,-13.679116746050683,1749.6059497836548],
+            "tgt": [11.154995626165652,-13.67741484443093,47.908422788781465]  }  },
     "isaak": {
         "labels": {
             "label1": {
@@ -15,7 +43,7 @@
                 "html": "Isaak Erbstolln",
                 "pos": [-13.87958854910984,0.9750533616407042,-98.11093624891153]  },
             "label4": {
-                "html": "<b><a href='./#reichezeche'>Previous stop: Reiche Zeche</a></b>",
+                "html": "<b><a href='./#halsbrucke'>Previous stop: Halsbr\u00fccke</a></b>",
                 "pos": [13.94788633573927,-16.222772726266733,96.76364666228012]  },
             "label5": {
                 "html": "<b><a href='./#rothenfurth'>Final stop: Rothenfurth</a></b>",
@@ -45,11 +73,49 @@
         "view": {
             "pos": [-8.628969166349036,-2.035747604469811,-4.625648367212045],
             "tgt": [0,0,0]  }  },
+    "overview": {
+        "labels": {
+            "label1": {
+                "html": "<i>Brand-Erbisdorf</i>",
+                "pos": [-2721.7820031917863,-7401.196089442929,575.1558521002027]  },
+            "label2": {
+                "html": "<b><a href='./#silverstadt'>Stop 1: Freiberg</a>",
+                "pos": [-697.8880656215869,-2241.2912279315133,190.19479192414556]  },
+            "label3": {
+                "html": "<b><a href='./#reichezeche'>Stop 2: Reiche Zeche</a>",
+                "pos": [-227.81621504397955,-1134.068426171251,292.84003653429403]  },
+            "label4": {
+                "html": "<b><a href='./#halsbrucke'>Stop 3: Halsbr\u00fccke</a>",
+                "pos": [-875.5415223970466,3266.8582806871577,-155.6936595112288]  },
+            "label5": {
+                "html": "<b><a href='./#rothenfurth'>Stop 4: Rothenfurth</a>",
+                "pos": [-2759.4992701558235,4440.307748097386,-150.21651762178126]  },
+            "label6": {
+                "html": "<i>Tharand forest caldera</i>",
+                "pos": [9071.233462452785,1278.4197621213805,380.8386521291135]  },
+            "label7": {
+                "html": "<i>Oberschona</i>",
+                "pos": [-7913.042851070844,-3337.174919076469,27.425356805610022]  },
+            "label8": {
+                "html": "<i>Braunsdorf</i>",
+                "pos": [-10398.16119903691,-126.15631305239503,-183.1825308527144]  },
+            "label9": {
+                "html": "<i>Kleinvoigtsberg</i>",
+                "pos": [-3557.706040962517,6795.719304122774,-199.78157681969003]  }  },
+        "mediaType": "cloud",
+        "mediaURL": "overview.zarr",
+        "pointSize": 50,
+        "view": {
+            "pos": [-628.730074277023,-18651.579140617123,32392.112133845174],
+            "tgt": [-17.339678820287862,-996.8338743557042,-2899.0953940141662]  }  },
     "pullapart": {
         "labels": {
             "label1": {
                 "html": "<a href='./#reichezeche'>Back to Reiche Zeche</a>",
-                "pos": [5.060563517592036,-11.679007113648073,4.7600363821128635]  }  },
+                "pos": [5.060563517592036,-11.679007113648073,4.7600363821128635]  },
+            "label2": {
+                "html": "<b><a href='./#russian'>Back to the surface</a></b>",
+                "pos": [-5.6194430085306095,9.05254322274291,3.4674499022552023]  }  },
         "mediaType": "cloud",
         "mediaURL": "pullapart.zarr",
         "pointSize": 0.02,
@@ -82,7 +148,7 @@
                 "html": "<i>Gl\u00fcck auf Spat</i>",
                 "pos": [6126.891528091095,1161.5289347949501,-159.23432584216883]  },
             "label8": {
-                "html": "<b><a href=\"./#isaak\">Next stop: Halsbrucke</a></b>",
+                "html": "<b><a href='./#isaak'>Next stop: Halsbrucke</a></b>",
                 "pos": [6147.09694249091,1649.006786224693,-133.7410058524911]  },
             "label9": {
                 "html": "<i>Richtstrecke</i>",
@@ -156,7 +222,10 @@
                 "pos": [90.81225079368562,35.45853535036133,17.921436045454875]  },
             "label5": {
                 "html": "<b><a href='./#rothenfurth'>Next stop: Rothenfurth</a></b>",
-                "pos": [-82.28045289301353,-55.33374925870732,0.4003199789908744]  }  },
+                "pos": [-82.28045289301353,-55.33374925870732,0.4003199789908744]  },
+            "label6": {
+                "html": "<b><a href='./#pullapart'>Go underground</a></b>",
+                "pos": [54.05292268730282,41.58540975216294,-71.92005448512225]  }  },
         "mediaType": "photosphere",
         "mediaURL": "./img/russian/ps.jpg",
         "tabs": {
@@ -182,6 +251,9 @@
             "label11": {
                 "html": "<i>Old city wall</i>",
                 "pos": [5328.228087456276,154.43138378904837,19.198426262266974]  },
+            "label2": {
+                "html": "<b><a href='./#wernerbau'>Wernerbau</a></b>",
+                "pos": [5494.069425733666,95.03127249678485,17.15874905779761]  },
             "label3": {
                 "html": "<i>Donatsturm</i>",
                 "pos": [5942.218519093996,-230.07636039080484,39.7591115098152]  },
@@ -199,10 +271,7 @@
                 "pos": [5323.81440212476,-194.8237885368362,22.782238058901783]  },
             "label9": {
                 "html": "<i>Silver!</a>",
-                "pos": [5818.496909910224,-131.47000173814473,-3.323493826343598]  },
-            "label2": {
-                "html": "<b><a href='/#wernerbau'>Wernerbau</a></b>",
-                "pos": [5494.069425733666,95.03127249678485,17.15874905779761]  }  },
+                "pos": [5818.496909910224,-131.47000173814473,-3.323493826343598]  }  },
         "mediaType": "cloud",
         "mediaURL": "Freiberg.zarr",
         "pointSize": 1.8,
@@ -211,32 +280,23 @@
         "view": {
             "pos": [5572.069823231979,-222.6658641805139,1379.8432651263026],
             "tgt": [5572.068657590354,-222.66512862915016,3.268049436597903]  }  },
-    "welcome": {
-        "labels": {
-            "label1": {
-                "html": "<b><a href='./#silverstadt'>First stop: Freiberg</a></b>",
-                "pos": [5445.484375655132,-314.76005523051685,7.303274162533453]  }  },
-        "mediaType": "cloud",
-        "mediaURL": "Freiberg.zarr",
-        "pointSize": 1.8,
-        "view": {
-            "pos": [5937.485316842929,-719.0598584086096,580.7207510508692],
-            "tgt": [5495.206905100459,-346.1570571041294,47.1123026341086]  }  },
     "wernerbau": {
-        "mediaType": "photosphere",
-        "mediaURL": "./img/wernerbau/ps.jpg",
-        "tabs": {
-            "Wernerbau": ["./md/wernerbau/wernerbau_en.md","./md/wernerbau/wernerbau_de.md"]  },
         "labels": {
             "label1": {
                 "html": "<b><a href='./#silverstadt'>Back to city map</a></b>",
                 "pos": [-97.50879474023735,1.9838333309786824,17.43084662110544]  }  },
+        "mediaType": "photosphere",
+        "mediaURL": "./img/wernerbau/ps.jpg",
+        "tabs": {
+            "Wernerbau": ["./md/wernerbau/wernerbau_en.md","./md/wernerbau/wernerbau_de.md"]  },
         "view": {
             "pos": [0.6881488625406154,-4.382110377152219,8.962341200012352],
             "tgt": [0,0,0]  }  }  },
 "synonyms": {
+    "halsbrucke": "halsbrucke",
     "isaak": "isaak",
     "obermarkt": "obermarkt",
+    "overview": "overview",
     "pullapart": "pullapart",
     "reichezeche": "reichezeche",
     "rhyolite": "rhyolite",
@@ -244,8 +304,7 @@
     "russian": "russian",
     "rz1": "rz1",
     "silverstadt": "silverstadt",
-    "start": "welcome",
-    "welcome": "welcome",
+    "start": "overview",
     "wernerbau": "wernerbau"  },
 "tabs": {
     "Help": ["./md/help_en.md","./md/help_de.md"],

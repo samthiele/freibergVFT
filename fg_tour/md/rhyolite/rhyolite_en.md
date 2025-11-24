@@ -27,6 +27,6 @@ The extensively altered (and weathered) host gneiss above the dyke is also of in
 
 **Next Stop: [Fractures](./#russian)**
 
-**Previous Stop: [Halsbrücke](./#isaak)**
+**Previous Stop: [Isaak](./#isaak)**
 
 ---

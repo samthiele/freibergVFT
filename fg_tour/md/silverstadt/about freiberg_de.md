@@ -35,9 +35,12 @@ Das 3D-Modell von Freiberg auf der rechten Seite hebt mehrere historische Orte h
 
 ----
 
+![Die Reiche-Zeche-Schachtanlage liegt auf dem Höhenrücken nur wenige hundert Meter von der Freiberger Altstadt entfernt.](./img/rzphoto.jpg)
+
+---
+
+
 
 **Nächster Halt: [Reiche Zeche und die Himmelfahrt Fundgrube](./#reichezeche)**
-
-![Die Reiche-Zeche-Schachtanlage liegt auf dem Höhenrücken nur wenige hundert Meter von der Freiberger Altstadt entfernt.](./img/rzphoto.jpg)
 
 ---

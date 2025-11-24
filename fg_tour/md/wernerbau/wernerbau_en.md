@@ -11,7 +11,7 @@ Together, Werner and Mohs shaped the scientific legacy that the Wernerbau embodi
 
 -----
 
-![Mineral exhibits on the outside of Wernerbau provide a nice overview of the mineralisation in Freiberg and the surrounding regions. Inside, it hosts one of the largest scientific mineral collections in the world.](./img/wernerbau.jpg)
+![Mineral exhibits on the outside of Wernerbau provide a great overview of the mineralisation types found at Freiberg (and the surrounding regions). Inside, it hosts one of the largest scientific mineral collections in the world.](./img/wernerbau.jpg)
 
 ---
 

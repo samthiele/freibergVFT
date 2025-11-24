@@ -1,0 +1,48 @@
+{
+    "chunks": 4,
+    "origin": [
+        383504,
+        5647006,
+        325
+    ],
+    "resolution": 1,
+    "styles": [
+        "rgb",
+        "gray"
+    ],
+    "stylesheet": {
+        "gray": {
+            "color": [
+                6,
+                {
+                    "limits": [
+                        0,
+                        1,
+                        255
+                    ],
+                    "scale": "Greys"
+                }
+            ]
+        },
+        "rgb": {
+            "color": {
+                "B": [
+                    5,
+                    0,
+                    1
+                ],
+                "G": [
+                    4,
+                    0,
+                    1
+                ],
+                "R": [
+                    3,
+                    0,
+                    1
+                ]
+            }
+        }
+    },
+    "total": 720677
+}

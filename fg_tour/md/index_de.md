@@ -1,18 +1,32 @@
+# Freiberg-Distrikt
 
-# Silberstadt
+Willkommen im [Freiberg-Distrikt](./#start)! In dieser virtuellen Exkursion erkunden wir die Geologie der silber-, blei- und zinkführenden Gänge, die in diesem Gebiet seit Jahrhunderten abgebaut werden.
 
-Willkommen in Freiberg! In dieser virtuellen Tour erkunden wir die Geologie der reichen Silber-, Blei- und Zinkgänge, die in dieser Region über Jahrhunderte abgebaut wurden.
+Während dieser Exkursion besuchen wir die folgenden Lokalitäten:
 
-Während dieser Tour besuchen wir die folgenden Stationen:
+## Halt 1: [Silberstadt](./#silverstadt) – *Entdecken Sie Freiberg und seine Geschichte.*
 
-1. [Silberstadt](./#silverstadt) - *entdecken Sie Freiberg und seine Geschichte*.
+* [Obermarkt](./#obermarkt)
+* [Wernerbau](./#wernerbau)
 
-2. [Reiche Zeche](./#reichezeche) - *wagen Sie sich in die Gruben hinein*
+## Halt 2: [Reiche Zeche](./#reichezeche) – *Untertage in der Grube Himmelfahrt.*
 
-3. [Halsbrücke](./#isaac) - *erfahren Sie mehr über die Prozesse, die Silbererze bildeten*
+* [Silberführende Gänge](./#pullapart)
 
-4. [Rothenfurth](./#rothenfurth) - *sehen Sie verbliebene Erzgänge an der Oberfläche*
+## Halt 3: [Halsbrücke](./#halsbrucke) – *Postvariszische Tektonik und mesozoische Gänge*
 
-Sie können jederzeit über die Schaltfläche Index direkt oberhalb dieses Textes zu dieser Seite zurückkehren.
+* [Isaak-Fluorit-Baryt-Gang](./#isaak)
+* [Rhyolith-Gang](./#rhyolite)
+* [Postvariszische Klüfte und Störungen](./#russian)
 
-## [Knöpfe zu – und los geht’s!](./#silverstadt)
+## Halt 4: [Rothenfurth](./#rothenfurth) – *Epithermale Gänge an der Oberfläche*
+
+---
+
+Sie können diese Seite jederzeit über die Schaltfläche `Index` direkt oberhalb dieses Textes aufrufen. Außerdem können Sie zur Übersichtsseite (Start) zurückkehren, indem Sie [hier](./#start) klicken.
+
+### [Schutzhelm auf – und los geht’s!](./#silverstadt)
+
+---
+
+![](./img/logos.png)
