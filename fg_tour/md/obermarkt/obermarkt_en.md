@@ -17,7 +17,7 @@ The Obermarkt also hosts famous "miners parades" several times a year.
 
 ---
 
-![Extravagent miners uniforms feature prominently in Freiberger and Erzgebirgish mining culture](https://upload.wikimedia.org/wikipedia/commons/b/b7/BergparadeMarienbergDez2005.jpg)
+![Extravagant miners' uniforms feature prominently in Freiberger and Erzgebirgish mining culture](https://upload.wikimedia.org/wikipedia/commons/b/b7/BergparadeMarienbergDez2005.jpg)
 
 ----
 
