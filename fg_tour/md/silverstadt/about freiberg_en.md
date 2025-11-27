@@ -25,11 +25,11 @@ The 3D model of Freiberg on the right highlights several historic spots worth ex
 
 **Obermarkt**. Freiberg’s main square, surrounded by Renaissance and Baroque buildings, has been the center of city life since the Middle Ages. With its statue of Otto the Rich, it remains a lively reminder of the town’s mining-driven prosperity.
 
-**Untermarkt**. A quieter companion to the Obermarkt, the Untermarkt once hosted specialized trade linked to mining. Its narrow streets, historic facades, and nearby St. Nicholas Church offer a charming glimpse into old Freiberg.
+**Untermarkt**. A quieter companion to the Obermarkt, the Untermarkt once hosted specialized trade linked to mining. Its narrow streets, historic facades, and nearby St. Nicholas Church offer a charming glimpse into old Freiberg. It is sadly also used as a car park...
 
-**Wernerbau**. Named after geologist Abraham Gottlob Werner, this early-20th-century university building reflects Freiberg’s long tradition in mining science. It once housed key academic departments and remains an important part of the TU Bergakademie campus.
+**Wernerbau**. Named after geologist Abraham Gottlob Werner, this building reflects Freiberg’s long tradition in mining science. It remains an important part of the TU Bergakademie campus.
 
-**Terra Mineralia**. Located in Freiberg Castle, this major mineral exhibition displays thousands of crystals and gems from around the world. Its modern exhibits in a historic setting highlight the city’s deep connection to mineralogy.
+**Terra Mineralia**. Located in Freiberg Castle, this major mineral exhibition displays thousands of beautiful mineral specimens from around the world. Its modern exhibits in a historic setting highlight the city’s deep connection to mineralogy.
 
 ![The Freiberger Christmas market, held every year on Obermarkt.](./img/xmas.jpg) 
 
