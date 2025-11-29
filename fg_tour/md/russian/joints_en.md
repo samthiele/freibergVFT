@@ -5,7 +5,7 @@ The "Russian wall" forms a prominent cliff adjacent the Mulde river. It provides
 
 ---
 
-**Discussion point:** *Older works on the Freiberg district suggest that the intersection angle between this biotite foliation and the epithermal veins were an important control on thickness and grade. Is this plausible / likely? *
+**Discussion point:** *Older studies of the Freiberg district suggest that the intersection angle between this biotite foliation and the epithermal veins were an important control on thickness and grade. Is this plausible / likely?*
 
 ---
 
