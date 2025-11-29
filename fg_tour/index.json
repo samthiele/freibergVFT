@@ -9,7 +9,7 @@
                 "html": "<i>Old mine tailings</i>",
                 "pos": [258.26916478162747,169.7590995059212,-2.2704339874416375]  },
             "label2": {
-                "html": "<b><a href=\\\"./#rhyolite\\\">Rhyolite dyke</a></b>",
+                "html": "<b><a href='./#rhyolite'>Rhyolite dyke</a></b>",
                 "pos": [236.23957649981625,406.28779158513674,9.52430137750219]  },
             "label3": {
                 "html": "<b><a href='./#isaak'>Fluorite-Barite Vein</a></b>",
